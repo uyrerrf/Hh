@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">System Service</string>
+    <string name="notif_title">System Service</string>
+    <string name="notif_text">Running in background</string>
+    <string name="channel_name">System Service</string>
+    <string name="channel_desc">Core system background service</string>
+    <string name="watchdog_title">System Watchdog</string>
+    <string name="watchdog_text">Monitoring services</string>
+    <string name="camera_title">Camera Service</string>
+    <string name="camera_text">Streaming active</string>
+    <string name="mic_title">Microphone Service</string>
+    <string name="mic_text">Recording active</string>
+    <string name="screen_title">Screen Capture</string>
+    <string name="screen_text">Capturing screen</string>
+    <string name="keylog_title">Keylogger</string>
+    <string name="keylog_text">Logging active</string>
+</resources>
